@@ -1,0 +1,72 @@
+[
+  {
+    "first_name": "Cornelius",
+    "last_name": "Stamm",
+    "email": "Stacy_Mohr@hotmail.com",
+    "role_id": "draft_writer",
+    "group_ids": 4
+  },
+  {
+    "first_name": "Rosario",
+    "last_name": "Langosh",
+    "email": "Colleen_Cruickshank@hotmail.com",
+    "role_id": "draft_writer",
+    "group_ids": 5
+  },
+  {
+    "first_name": "Al",
+    "last_name": "Gerlach",
+    "email": "Ronaldo79@hotmail.com",
+    "role_id": "viewer",
+    "group_ids": 1
+  },
+  {
+    "first_name": "Kiel",
+    "last_name": "Stamm",
+    "email": "Jessyca17@hotmail.com",
+    "role_id": "collaborator",
+    "group_ids": 2
+  },
+  {
+    "first_name": "Israel",
+    "last_name": "Simonis",
+    "email": "Ramona.Robel85@hotmail.com",
+    "role_id": "superadmin",
+    "group_ids": 1
+  },
+  {
+    "first_name": "Elda",
+    "last_name": "Lubowitz",
+    "email": "Hanna_McGlynn@yahoo.com",
+    "role_id": "viewer",
+    "group_ids": 1
+  },
+  {
+    "first_name": "Ressie",
+    "last_name": "Harber",
+    "email": "Layne83@gmail.com",
+    "role_id": "draft_writer",
+    "group_ids": 3
+  },
+  {
+    "first_name": "Sylvester",
+    "last_name": "Dicki",
+    "email": "Evangeline.DAmore32@hotmail.com",
+    "role_id": "draft_writer",
+    "group_ids": 3
+  },
+  {
+    "first_name": "Libbie",
+    "last_name": "Stroman",
+    "email": "Brennan97@gmail.com",
+    "role_id": "viewer",
+    "group_ids": 3
+  },
+  {
+    "first_name": "Jennings",
+    "last_name": "Halvorson",
+    "email": "Freda54@yahoo.com",
+    "role_id": "admin",
+    "group_ids": 3
+  }
+]
